@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Bulbasaur",
+    "image_url": "https://pjevvqoxxqhkbsiuaasl.supabase.co/storage/v1/object/public/pokemon-images/1.png"
+  },
+  {
+    "name": "Ivysaur",
+    "image_url": "https://pjevvqoxxqhkbsiuaasl.supabase.co/storage/v1/object/public/pokemon-images/2.png"
+  },
+  {
+    "name": "Charmander",
+    "image_url": "https://pjevvqoxxqhkbsiuaasl.supabase.co/storage/v1/object/public/pokemon-images/4.png"
+  },
+  {
+    "name": "Charmeleon",
+    "image_url": "https://pjevvqoxxqhkbsiuaasl.supabase.co/storage/v1/object/public/pokemon-images/5.png"
+  },
+  {
+    "name": "Charizard",
+    "image_url": "https://pjevvqoxxqhkbsiuaasl.supabase.co/storage/v1/object/public/pokemon-images/6.png"
+  },
+  {
+    "name": "Squirtle",
+    "image_url": "https://pjevvqoxxqhkbsiuaasl.supabase.co/storage/v1/object/public/pokemon-images/7.png"
+  },
+  {
+    "name": "Wartortle",
+    "image_url": "https://pjevvqoxxqhkbsiuaasl.supabase.co/storage/v1/object/public/pokemon-images/8.png"
+  },
+  {
+    "name": "Blastoise",
+    "image_url": "https://pjevvqoxxqhkbsiuaasl.supabase.co/storage/v1/object/public/pokemon-images/9.png"
+  },
+  {
+    "name": "Caterpie",
+    "image_url": "https://pjevvqoxxqhkbsiuaasl.supabase.co/storage/v1/object/public/pokemon-images/10.png"
+  }
+]
